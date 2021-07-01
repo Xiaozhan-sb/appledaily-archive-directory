@@ -1,3 +1,6 @@
+![本項目由中共宣傳部特別呈現](https://raw.githubusercontent.com/Xiaozhan-sb/MRX3F-47B9T-2487J-KWKMF-RPWBY/main/IMG_20210701_180042_953.jpg)
+
+
 # 《蘋果日報》文字備份計劃
 
 - [引言](#引言)
